@@ -1,3 +1,3 @@
 # CPP
 
-These are bocheng's cpp/c++ projects
+My cpp projects :)
